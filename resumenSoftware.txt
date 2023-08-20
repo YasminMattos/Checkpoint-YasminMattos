@@ -1,0 +1,4 @@
+Ejemplos de Software:
+- Microsoft Windows
+- Gnu/Linux
+- Android

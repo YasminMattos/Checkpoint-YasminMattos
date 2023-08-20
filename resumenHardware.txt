@@ -1,0 +1,4 @@
+Ejemplos de memorias principales:
+-RAM
+-ROM
+-Caché.

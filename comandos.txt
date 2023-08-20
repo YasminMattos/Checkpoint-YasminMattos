@@ -1,0 +1,19 @@
+Comandos usados:
+git init --> Para inicializar repositorio
+git branch -m main --> Para renombrar la rama master por main
+git remote add origin url-del-repositorio-remoto --> Para vincular el repositorio remoto al local
+git remote -v --> Para asegurarme que se vinculó correctamente
+touch nombre-archivo --> Para crear archivos
+git add . --> Para registrar todos los cambios hechos
+git commit -m "comentario" --> Para hacer commit de los cambios
+git push origin main --> Envía cambios al repositorio remoto
+git branch nueva-rama --> Para crear una rama nueva
+git checkout rama-nueva --> Para posicionarme en la rama-nueva
+mkdir nombre-directorio --> Para crear directorios
+cd .. --> Para subir un nivel de directorio
+cd --> Para cambiar de carpeta
+pwd --> Para saber la carpeta en la que se está trabajando
+git push origin nueva-rama --> Para enviar cambios a la nueva rama
+git checkout main --> Para regresar a rama main
+mv [nombre-actual] [nuevo-nombre] --> Para renombrar archivos
+cat archivo.txt --> Para ver el contenido del fichero.
